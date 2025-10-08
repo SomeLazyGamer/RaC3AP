@@ -37,6 +37,7 @@ end
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/planets.json")
 Tracker:AddLayouts("layouts/tracker.json")
+Tracker:AddLayouts("layouts/settings.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 
 print("------------------------DEBUG-----------------------")

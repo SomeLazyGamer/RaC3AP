@@ -338,8 +338,8 @@
         "codes": ""
       },
       {
-        "img": "images/items/planet/Marcadia.png",
-        "codes": "Marcadia"
+    "img": "images/items/planet/Marcadia.png",
+    "codes": "Marcadia"
       }
     ]
   },
@@ -625,6 +625,54 @@
       {
         "img": "images/items/planet/CommandCenter.png",
         "codes": "CommandCenter"
+      }
+    ]
+  },
+  {
+    "name": "Skill Shuffle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/SkillDisabled.png",
+          "name": "Skill Points - Off",
+          "codes": "SkillSanity,SkillDisabled",
+          "inherit_codes": false
+      },
+      {
+        "img": "images/items/settings/SkillSimple.png",
+        "name": "Skill Points - Simple Only",
+        "codes": "SkillSanity,SkillSimple"
+      },
+      {
+        "img": "images/items/settings/SkillMaster.png",
+        "name": "Skill Points - All",
+        "codes": "SkillSanity,SkillMaster"
+      }
+    ]
+  },
+  {
+    "name": "Trophy Shuffle",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/TrophiesDisabled.png",
+          "name": "Trophies - Off",
+          "codes": "TrophySanity,TrophiesDisabled",
+          "inherit_codes": false
+      },
+      {
+        "img": "images/items/settings/TrophiesCollect.png",
+        "name": "Trophies - Collectables Only",
+        "codes": "TrophySanity,TrophiesCollect"
+      },
+      {
+        "img": "images/items/settings/TrophiesAll.png",
+        "name": "Trophies - All",
+        "codes": "TrophySanity,TrophiesAll"
       }
     ]
   }

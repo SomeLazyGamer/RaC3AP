@@ -1,5 +1,5 @@
 [
-  {
+{
     "name": "Galaxy",
     "chest_unopened_img": "images/Question.png",
     "chest_opened_img": "images/Q_Force.png",
@@ -1663,7 +1663,7 @@
     "chest_opened_img": "images/Q_Force.png",
     "children": [
       {
-        "name": "Recruitment",
+        "name": "First Ranger",
         "map_locations": [
           {
             "map": "Veldin",
@@ -1679,7 +1679,7 @@
         ]
       },
       {
-        "name": "Rangers",
+        "name": "Second Ranger",
         "map_locations": [
           {
             "map": "Veldin",
@@ -1754,7 +1754,7 @@
         ]
       },
       {
-        "name": "2nd Building Upper",
+        "name": "2nd Building Upstairs North-East",
         "map_locations": [
           {
             "map": "Florana",
@@ -1764,7 +1764,7 @@
         ],
         "sections": [
           {
-            "name": "Ratchet trophy",
+            "name": "Ratchet Trophy",
             "item_count": 1
           }
         ]
@@ -1866,45 +1866,35 @@
           {
             "name": "Beat Helga's Best Time (0:50) (SP)",
             "access_rules": [
-              "Tyhrranosis",
-              "hacker",
-              "hyperShot"
+              "Tyhrranosis, hacker, hyperShot"
             ],
             "item_count": 1
           },
           {
             "name": "VR Gadget Training",
             "access_rules": [
-              "Tyhrranosis",
-              "hacker",
-              "hyperShot"
+              "Tyhrranosis, hacker, hyperShot"
             ],
             "item_count": 1
           },
           {
             "name": "Received Hacker",
             "access_rules": [
-              "Tyhrranosis",
-              "hacker",
-              "hyperShot"
+              "Tyhrranosis, hacker, hyperShot"
             ],
             "item_count": 1
           },
           {
             "name": "Received Hypershot",
             "access_rules": [
-              "Tyhrranosis",
-              "hacker",
-              "hyperShot"
+              "Tyhrranosis, hacker, hyperShot"
             ],
             "item_count": 1
           },
           {
-            "name": "Infobot: Daxx",
+            "name": "VR Training after Noid Queen",
             "access_rules": [
-              "Tyhrranosis",
-              "hacker",
-              "hyperShot"
+              "Tyhrranosis, hacker, hyperShot"
             ],
             "item_count": 1
           },
@@ -1979,7 +1969,7 @@
         ]
       },
       {
-        "name": "Phoenix Infobots",
+        "name": "Phoenix Missions",
         "map_locations": [
           {
             "map": "Starship Phoenix",
@@ -1989,15 +1979,27 @@
         ],
         "sections": [
           {
-            "name": "Infobot: Aquatos",
+            "name": "Play VidComic 1",
             "item_count": 1
           },
           {
-            "name": "Infobot: Tyhrranosis",
+            "name": "Return after winning Grand Prize Bout",
             "item_count": 1
           },
           {
-            "name": "Qwark Vidcomic 5",
+            "name": "Return after Aquatos Base",
+            "item_count": 1
+          },
+          {
+            "name": "Play VidComic 4",
+            "item_count": 1
+          },
+          {
+            "name": "Give Al the Master Plan",
+            "item_count": 1
+          },
+          {
+            "name": "Play VidComic 5",
             "item_count": 1
           }
         ]
@@ -2013,11 +2015,11 @@
         ],
         "sections": [
           {
-            "name": "Infobot: Annihilation Nation",
+            "name": "Qwark Vidcomic 1 Clear",
             "item_count": 1
           },
           {
-            "name": "Qwark Vidcomic 1 Clear",
+            "name": "Vidcomic 1 100% Clear",
             "item_count": 1
           },
           {
@@ -2025,11 +2027,11 @@
             "item_count": 1
           },
           {
-            "name": "VC1 - All Tokens Titanium Bolt",
+            "name": "Qwark Vidcomic 2 Clear",
             "item_count": 1
           },
           {
-            "name": "Qwark Vidcomic 2 Clear",
+            "name": "Vidcomic 2 100% Clear",
             "item_count": 1
           },
           {
@@ -2037,11 +2039,11 @@
             "item_count": 1
           },
           {
-            "name": "VC2 - All Tokens Titanium Bolt",
+            "name": "Qwark Vidcomic 3 Clear",
             "item_count": 1
           },
           {
-            "name": "Qwark Vidcomic 3 Clear",
+            "name": "Vidcomic 3 100% Clear",
             "item_count": 1
           },
           {
@@ -2049,15 +2051,11 @@
             "item_count": 1
           },
           {
-            "name": "VC3 - All Tokens Titanium Bolt",
-            "item_count": 1
-          },
-          {
-            "name": "Infobot: Metropolis",
-            "item_count": 1
-          },
-          {
             "name": "Qwark Vidcomic 4 Clear",
+            "item_count": 1
+          },
+          {
+            "name": "Vidcomic 4 100% Clear",
             "item_count": 1
           },
           {
@@ -2065,23 +2063,15 @@
             "item_count": 1
           },
           {
-            "name": "VC4 - All Tokens Titanium Bolt",
-            "item_count": 1
-          },
-          {
-            "name": "Infobot: Qwarks Hideout",
-            "item_count": 1
-          },
-          {
             "name": "Qwark Vidcomic 5 Clear",
             "item_count": 1
           },
           {
-            "name": "VC5 - Set a new record for Qwark (2:00) (SP)",
+            "name": "Vidcomic 5 100% Clear",
             "item_count": 1
           },
           {
-            "name": "VC5 - All Tokens Titanium Bolt",
+            "name": "VC5 - Set a new record for Qwark (2:00) (SP)",
             "item_count": 1
           },
           {
@@ -2091,7 +2081,7 @@
         ]
       },
       {
-        "name": "Bridge",
+        "name": "The Bridge",
         "map_locations": [
           {
             "map": "Starship Phoenix",
@@ -2101,7 +2091,7 @@
         ],
         "sections": [
           {
-            "name": "Infobot: Marcadia",
+            "name": "Meet Sasha on the Bridge",
             "item_count": 1
           },
           {
@@ -2122,6 +2112,34 @@
         "sections": [
           {
             "name": "Infobot: Koros",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Long Term Trophies",
+        "map_locations": [
+          {
+            "map": "Starship Phoenix",
+            "x": 309,
+            "y": 416
+          }
+        ],
+        "sections": [
+          {
+            "name": "Titanium Collector",
+            "item_count": 1
+          },
+          {
+            "name": "Friend of the Rangers",
+            "item_count": 1
+          },
+          {
+            "name": "Annihilation Nation Champion",
+            "item_count": 1
+          },
+          {
+            "name": "Skill Master",
             "item_count": 1
           }
         ]
@@ -2307,7 +2325,7 @@
         ]
       },
       {
-        "name": "Prizes",
+        "name": "Grand Prize",
         "map_locations": [
           {
             "map": "Annihilation Nation",
@@ -2318,14 +2336,6 @@
         "sections": [
           {
             "name": "Received Tyhrra-Guise",
-            "item_count": 1
-          },
-          {
-            "name": "Qwark Vidcomic 2",
-            "item_count": 1
-          },
-          {
-            "name": "Qwark Vidcomic 3",
             "item_count": 1
           }
         ]
@@ -2701,7 +2711,7 @@
         ]
       },
       {
-        "name": "Top Left Bolt",
+        "name": "Top Left Bolt",        
         "map_locations": [
           {
             "map": "Aquatos Sewers",
@@ -2784,7 +2794,7 @@
         ],
         "sections": [
           {
-            "name": "Received Mini-turret Glove",
+            "name": "Received Mini-Turret Glove",
             "item_count": 1
           },
           {
@@ -3775,7 +3785,7 @@
           {
             "map": "Aquatos Sewers",
             "x": 437,
-            "y": 213
+            "y": 213  
           }
         ],
         "sections": [
@@ -4042,46 +4052,6 @@
         "map_locations": [
           {
             "map": "Aquatos Sewers",
-            "x": 210,
-            "y": 396
-          }
-        ],
-        "sections": [
-          {
-            "name": "In Rock",
-            "item_count": 1
-          },
-          {
-            "name": "King Amoeboid",
-            "item_count": 1
-          },
-          {
-            "name": "Another King Amoeboid",
-            "item_count": 1
-          }
-        ]
-      },
-      {
-        "name": "Sewer Crystal",
-        "map_locations": [
-          {
-            "map": "Aquatos Sewers",
-            "x": 210,
-            "y": 396
-          }
-        ],
-        "sections": [
-          {
-            "name": "In Rock",
-            "item_count": 1
-          }
-        ]
-      },
-      {
-        "name": "Sewer Crystal",
-        "map_locations": [
-          {
-            "map": "Aquatos Sewers",
             "x": 277,
             "y": 336
           }
@@ -4174,7 +4144,7 @@
         ]
       }
     ]
-  },
+    },
   {
     "name": "Tyhrranosis",
     "chest_unopened_img": "images/Question.png",
@@ -4220,7 +4190,7 @@
         ]
       },
       {
-        "name": "Atop the pillar",
+        "name": "North East Pillar",
         "map_locations": [
           {
             "map": "Tyhrranosis",
@@ -4230,7 +4200,7 @@
         ],
         "sections": [
           {
-            "name": "AL trophy",
+            "name": "Al Trophy",
             "item_count": 1
           }
         ]
@@ -4336,7 +4306,7 @@
             "item_count": 1
           },
           {
-            "name": "Plumber trophy",
+            "name": "Plumber Trophy",
             "item_count": 1
           }
         ]
@@ -4648,7 +4618,7 @@
         ]
       },
       {
-        "name": "Above the tall elevator",
+        "name": "After the Tall Elevator",
         "map_locations": [
           {
             "map": "Holostar Studios",
@@ -4658,7 +4628,7 @@
         ],
         "sections": [
           {
-            "name": "Clank trophy",
+            "name": "Clank Trophy",
             "item_count": 1
           }
         ]
@@ -4796,7 +4766,7 @@
         ]
       },
       {
-        "name": "The Leviathan",
+        "name": "Escape the Starship",
         "map_locations": [
           {
             "map": "Zeldrin Starport",
@@ -4806,7 +4776,7 @@
         ],
         "sections": [
           {
-            "name": "Qwark Vidcomic 4",
+            "name": "Vid-Comic 4",
             "item_count": 1
           }
         ]
@@ -4854,7 +4824,7 @@
         ]
       },
       {
-        "name": "In the Window",
+        "name": "2nd Building Window",
         "map_locations": [
           {
             "map": "Metropolis",
@@ -4864,7 +4834,7 @@
         ],
         "sections": [
           {
-            "name": "Skrunch trophy",
+            "name": "Skrunch Trophy",
             "item_count": 1
           }
         ]
@@ -4886,7 +4856,7 @@
         ]
       },
       {
-        "name": "Tall Tower (Hovership) ",
+        "name": "Tall Tower (Hovership)",
         "map_locations": [
           {
             "map": "Metropolis: Mission",
@@ -4918,7 +4888,7 @@
         ]
       },
       {
-        "name": "Klunk Fight",
+        "name": "Defeat Giant Klunk",
         "map_locations": [
           {
             "map": "Metropolis",
@@ -4996,7 +4966,7 @@
         ]
       },
       {
-        "name": "First Corner",
+        "name": "Near First Corner",
         "map_locations": [
           {
             "map": "Crash Site",
@@ -5006,7 +4976,7 @@
         ],
         "sections": [
           {
-            "name": "Dr Nefarious trophy",
+            "name": "Dr Nefarious Trophy",
             "item_count": 1
           }
         ]
@@ -5048,8 +5018,8 @@
         "map_locations": [
           {
             "map": "Crash Site",
-            "x": 45,
-            "y": 484
+            "x": 425,
+            "y": 323
           }
         ],
         "sections": [
@@ -5063,9 +5033,9 @@
         "name": "Aim High (SP)",
         "map_locations": [
           {
-            "map": "Crash Site",
-            "x": 425,
-            "y": 323
+            "map": "CrashSite",
+            "x": 45,
+            "y": 484
           }
         ],
         "sections": [
@@ -5276,7 +5246,7 @@
         ]
       },
       {
-        "name": "Before Qwark's room",
+        "name": "Outside Qwark's Room",
         "map_locations": [
           {
             "map": "Qwarks Hideout",
@@ -5286,7 +5256,7 @@
         ],
         "sections": [
           {
-            "name": "Qwark trophy",
+            "name": "Qwark Trophy",
             "item_count": 1
           }
         ]
@@ -5318,7 +5288,7 @@
         ]
       },
       {
-        "name": "In the Glass House",
+        "name": "Glass House",
         "map_locations": [
           {
             "map": "Koros",
@@ -5328,7 +5298,7 @@
         ],
         "sections": [
           {
-            "name": "Courtney Gears trophy",
+            "name": "Courtny Gears Trophy",
             "item_count": 1
           }
         ]
@@ -5361,6 +5331,9 @@
         "sections": [
           {
             "name": "Smash up the Robot Base",
+            "access_rules": [
+              "BoxBreaker"
+            ],
             "item_count": 1
           }
         ]
@@ -5408,7 +5381,7 @@
         ]
       },
       {
-        "name": "Atop the ladder",
+        "name": "Up a Ladder",
         "map_locations": [
           {
             "map": "Command Center",
@@ -5418,7 +5391,7 @@
         ],
         "sections": [
           {
-            "name": "Lawrence trophy",
+            "name": "Lawrence Trophy",
             "item_count": 1
           }
         ]
