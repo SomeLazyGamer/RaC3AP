@@ -57,8 +57,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Phoenix1",
-                  "Phoenix2"
+                  "Starship Phoenix",
+                  "Phoenix Assault"
                 ]
               }
             },
@@ -76,7 +76,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Annihilation"
+                  "Annihilation Nation"
                 ]
               }
             },
@@ -85,9 +85,9 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Aquatos1",
-                  "Aquatos2",
-                  "Aquatos3"
+                  "Aquatos",
+                  "Aquatos Base",
+                  "Aquatos Sewers"
                 ]
               }
             },
@@ -96,8 +96,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Tyhrranosis1",
-                  "Tyhrranosis2"
+                  "Tyhrranosis",
+                  "Tyhrranosis: Mission"
                 ]
               }
             },
@@ -115,8 +115,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Gemini",
-                  "Pollux"
+                  "Obani Gemini"
                 ]
               }
             },
@@ -125,7 +124,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Blackwater"
+                  "Blackwater City"
                 ]
               }
             },
@@ -134,8 +133,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Holostar1",
-                  "Holostar2"
+                  "Holostar Studios",
+                  "Holostar Studios Clank"
                 ]
               }
             },
@@ -144,7 +143,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "ObaniDraco"
+                  "Obani Draco"
                 ]
               }
             },
@@ -153,7 +152,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "ZeldrinStarport"
+                  "Zeldrin Starport"
                 ]
               }
             },
@@ -162,8 +161,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Metropolis1",
-                  "Metropolis2"
+                  "Metropolis",
+                  "Metropolis: Mission"
                 ]
               }
             },
@@ -172,7 +171,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "CrashSite"
+                  "Crash Site"
                 ]
               }
             },
@@ -190,7 +189,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "QwarksHideout"
+                  "Qwarks Hideout"
                 ]
               }
             },
@@ -208,8 +207,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "CommandCenter1",
-                  "CommandCenter2"
+                  "Command Center",
+                  "Command Center 2"
                 ]
               }
             }
@@ -276,8 +275,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Phoenix1",
-                  "Phoenix2"
+                  "Starship Phoenix",
+                  "Phoenix Assault"
                 ]
               }
             },
@@ -295,7 +294,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Annihilation"
+                  "Annihilation Nation"
                 ]
               }
             },
@@ -304,9 +303,9 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Aquatos1",
-                  "Aquatos2",
-                  "Aquatos3"
+                  "Aquatos",
+                  "Aquatos Base",
+                  "Aquatos Sewers"
                 ]
               }
             },
@@ -315,8 +314,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Tyhrranosis1",
-                  "Tyhrranosis2"
+                  "Tyhrranosis",
+                  "Tyhrranosis: Mission"
                 ]
               }
             },
@@ -334,8 +333,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Gemini",
-                  "Pollux"
+                  "Obani Gemini"
                 ]
               }
             },
@@ -344,7 +342,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Blackwater"
+                  "Blackwater City"
                 ]
               }
             },
@@ -353,8 +351,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Holostar1",
-                  "Holostar2"
+                  "Holostar Studios",
+                  "Holostar Studios Clank"
                 ]
               }
             },
@@ -363,7 +361,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "ObaniDraco"
+                  "Obani Draco"
                 ]
               }
             },
@@ -372,7 +370,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "ZeldrinStarport"
+                  "Zeldrin Starport"
                 ]
               }
             },
@@ -381,8 +379,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "Metropolis1",
-                  "Metropolis2"
+                  "Metropolis",
+                  "Metropolis: Mission"
                 ]
               }
             },
@@ -391,7 +389,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "CrashSite"
+                  "Crash Site"
                 ]
               }
             },
@@ -409,7 +407,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "QwarksHideout"
+                  "Qwarks Hideout"
                 ]
               }
             },
@@ -427,8 +425,8 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "CommandCenter1",
-                  "CommandCenter2"
+                  "Command Center",
+                  "Command Center 2"
                 ]
               }
             }

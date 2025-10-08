@@ -182,7 +182,7 @@ LOCATION_MAPPING = {
 	[DAXX_ID + 00001] = { {"@Daxx/Right of the Taxi/Titanium Bolt" } },
 	[DAXX_ID + 00002] = { {"@Daxx/Time Sensitive Door/Titanium Bolt"} },
 	[DAXX_ID + 00003] = { {"@Daxx/Around the Island/Received Charge Boots"} },
-	[DAXX_ID + 00004] = { {"@Daxx/Explore the Docks/Courtney's Music Vid!" } },
+	[DAXX_ID + 00004] = { {"@Daxx/Explore the Docks/Courtney's Music Vid" } },
 	[DAXX_ID + 00005] = { {"@Daxx/Bugs to Birds (SP)/Turn 15 Floranian Blood Flies into ducks."} },
 	[DAXX_ID + 00006] = { {"@Daxx/Around the Island/Plumber Trophy"} },
 	--Obani Gemini
@@ -192,12 +192,12 @@ LOCATION_MAPPING = {
 	[OBANI_ID + 00003] = { {"@Obani Moons/Explore the Second Moon/Infobot: Blackwater City"} },
 	[OBANI_ID + 00004] = { {"@Obani Moons/Get to the belt (SP)/Get onto the floating asteroid ring" } },
 	--Blackwater City	
-	[BLACKWATER_ID + 00000] = { {"@Blackwater/Save Blackwater City/Received Grav Boots"} },
-	[BLACKWATER_ID + 00001] = { {"@Blackwater/Save Blackwater City/Infobot: Holostar Studios"} },
-	[BLACKWATER_ID + 00002] = { {"@Blackwater/Operation: BLACK TIDE/The Battle of Blackwater City" } },
-	[BLACKWATER_ID + 00003] = { {"@Blackwater/Operation: BLACK TIDE/The Bridge"} },
-	[BLACKWATER_ID + 00004] = { {"@Blackwater/Operation: BLACK TIDE/Counterattack" } },
-	[BLACKWATER_ID + 00005] = { {"@Blackwater/Bash the party (SP)/Kill 20 enemies with the wrench"} },
+	[BLACKWATER_ID + 00000] = { {"@Blackwater City/Save Blackwater City/Received Grav Boots"} },
+	[BLACKWATER_ID + 00001] = { {"@Blackwater City/Save Blackwater City/Infobot: Holostar Studios"} },
+	[BLACKWATER_ID + 00002] = { {"@Blackwater City/Operation: BLACK TIDE/The Battle of Blackwater City" } },
+	[BLACKWATER_ID + 00003] = { {"@Blackwater City/Operation: BLACK TIDE/The Bridge"} },
+	[BLACKWATER_ID + 00004] = { {"@Blackwater City/Operation: BLACK TIDE/Counterattack" } },
+	[BLACKWATER_ID + 00005] = { {"@Blackwater City/Bash the party (SP)/Kill 20 enemies with the wrench"} },
 	--Holostar Studios
 	[HOLOSTAR_ID + 00000] = { {"@Holostar Studios/Vendor/Received Rift Inducer"} },
 	[HOLOSTAR_ID + 00001] = { {"@Holostar Studios/Atop the Chairs/Titanium Bolt"} },
@@ -205,7 +205,7 @@ LOCATION_MAPPING = {
 	[HOLOSTAR_ID + 00003] = { {"@Holostar Studios/Kamikaze Noids/Titanium Bolt"} },
 	[HOLOSTAR_ID + 00004] = { {"@Holostar Studios/Escape the Tyhrranoid Ambush/Infobot: Obani Draco" } },
 	[HOLOSTAR_ID + 00005] = { {"@Holostar Studios/Feeling Lucky (SP)/Win the jackpot"}, {"@Holostar Clank/Feeling Lucky (SP)/Win the jackpot"} },
-	[HOLOSTAR_ID + 00006] = { {"@Holostar Studios/After tall Elevator/Clank Trophy"} },
+	[HOLOSTAR_ID + 00006] = { {"@Holostar Studios/After the Tall Elevator/Clank Trophy"} },
 	--Obani Draco (lol)
 	[50210000] = { {"@Obani Draco/Beat Courtney Gears/Infobot: Zeldrin Starport"} },
 	--Zeldrin Starport
@@ -218,7 +218,7 @@ LOCATION_MAPPING = {
 	[METROPOLIS_ID + 00001] = { {"@Metropolis/2002 was a good year in the city (SP)/Destroy the blimp"} },
 	[METROPOLIS_ID + 00002] = { {"@Metropolis/Metal-Noids/The AAAAGE OF ROBOTS!!!" } },
 	[METROPOLIS_ID + 00003] = { {"@Metropolis/Right of the Balcony/Titanium Bolt" } },
-	[METROPOLIS_ID + 00004] = { {"@Metropolis/Defeat Giant Klunk/*evil chuckle*" } },
+	[METROPOLIS_ID + 00004] = { {"@Metropolis/Defeat Giant Klunk/Infobot: Crash Site" } },
 	[METROPOLIS_ID + 00005] = { {"@Metropolis/2nd Building Window/Skrunch Trophy" } },
 	--Metropolis Mission
 	[METROMISSION_ID + 00000] = { {"@Metropolis/Tall Tower (Hovership)/Titanium Bolt"} },
@@ -235,7 +235,7 @@ LOCATION_MAPPING = {
 	[CRASH_ID + 00003] = { {"@Crash Site/Post Explore Crash Site/Infobot: Aridia"} },
 	[CRASH_ID + 00004] = { {"@Crash Site/Suck it up! (SP)/Kill 40 enemies using the Suck Cannon"} },
 	[CRASH_ID + 00005] = { {"@Crash Site/Aim High (SP)/Kill 10 Skreeducks"} },
-	[CRASH_ID + 00006] = { {"@Crash Site/Near first corner/Nefarious Trophy"} },
+	[CRASH_ID + 00006] = { {"@Crash Site/Near First Corner/Dr Nefarious Trophy"} },
 	--Aridia
 	[ARIDIA_ID + 00000] = { {"@Aridia/Operation: DEATH VALLEY/Received Warp Pad"} },
 	[ARIDIA_ID + 00001] = { {"@Aridia/Vendor/Received Qwack-O-Ray"} },
