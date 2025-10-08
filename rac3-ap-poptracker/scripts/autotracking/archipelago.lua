@@ -160,6 +160,23 @@ function onClear(slot_data)
 			end
 		end
 	end
+    -- reset settings
+    for key, value in pairs(slot_data) do
+        if SLOT_CODES[key] then
+            local object = Tracker:FindObjectForCode(SLOT_CODES[key].code)
+                if object then
+                    if SLOT_CODES[key].type == "toggle" then
+                        object.Active = value
+                    elseif SLOT_CODES[key].type == "progressive" then
+                        object.CurrentStage = SLOT_CODES[key].mapping[value]
+                    elseif SLOT_CODES[key].type == "consumable" then
+                        object.AcquiredCount = value
+                    end
+                elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+                    print(string.format("No setting could be found for key: %s", key))
+                end
+        end
+    end
 	apply_slot_data(slot_data)
 	LOCAL_ITEMS = {}
 	GLOBAL_ITEMS = {}

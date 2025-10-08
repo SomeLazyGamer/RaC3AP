@@ -326,305 +326,145 @@
   },
   {
     "name": "Marcadia",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Marcadia.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Marcadia.png",
-        "codes": "Marcadia"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Marcadia.png",
+    "codes": "Marcadia"
   },
   {
     "name": "Annihilation",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Annihilation.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Annihilation.png",
-        "codes": "Annihilation"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Annihilation.png",
+    "codes": "Annihilation"
   },
   {
     "name": "Aquatos",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Aquatos.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Aquatos.png",
-        "codes": "Aquatos"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Aquatos.png",
+    "codes": "Aquatos"
   },
   {
     "name": "Tyhrranosis",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Aquatos.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Aquatos.png",
-        "codes": "Tyhrranosis"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Tyhrranosis.png",
+    "codes": "Tyhrranosis"
   },
   {
     "name": "Daxx",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Daxx.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Daxx.png",
-        "codes": "Daxx"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Daxx.png",
+    "codes": "Daxx"
   },
   {
     "name": "Obani Gemini",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/ObaniGemini.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/ObaniGemini.png",
-        "codes": "ObaniGemini"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/ObaniGemini.png",
+    "codes": "ObaniGemini"
   },
   {
     "name": "Blackwater",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Blackwater.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Blackwater.png",
-        "codes": "Blackwater"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Blackwater.png",
+    "codes": "Blackwater"
   },
   {
     "name": "Holostar",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Holostar.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Holostar.png",
-        "codes": "Holostar"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Holostar.png",
+    "codes": "Holostar"
   },
   {
     "name": "Obani Draco",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/ObaniDraco.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/ObaniDraco.png",
-        "codes": "ObaniDraco"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/ObaniDraco.png",
+    "codes": "ObaniDraco"
   },
   {
     "name": "Zeldrin Starport",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/ZeldrinStarport.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/ZeldrinStarport.png",
-        "codes": "ZeldrinStarport"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/ZeldrinStarport.png",
+    "codes": "ZeldrinStarport"
   },
   {
     "name": "Metropolis",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Metropolis.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Metropolis.png",
-        "codes": "Metropolis"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Metropolis.png",
+    "codes": "Metropolis"
   },
   {
     "name": "Crash Site",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/CrashSite.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/CrashSite.png",
-        "codes": "CrashSite"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/CrashSite.png",
+    "codes": "CrashSite"
   },
   {
     "name": "Aridia",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/Aridia.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/Aridia.png",
-        "codes": "Aridia"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/Aridia.png",
+    "codes": "Aridia"
   },
   {
     "name": "Qwark's Hideout",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/planet/QwarksHideout.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
-      },
-      {
-        "img": "images/items/planet/QwarksHideout.png",
-        "codes": "QwarksHideout"
-      }
-    ]
+    "type": "toggle",
+    "img": "images/items/planet/QwarksHideout.png",
+    "codes": "QwarksHideout"
   },
   {
     "name": "Koros",
+    "type": "toggle",
+    "img": "images/items/planet/Koros.png",
+    "codes": "Koros"
+  },
+  {
+    "name": "Command Center",
+    "type": "toggle",
+    "img": "images/items/planet/CommandCenter.png",
+    "codes": "CommandCenter"
+  },
+  {
+    "name": "Skill Shuffle",
     "type": "progressive",
+    "loop": false,
     "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/items/planet/Koros.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
+          "img": "images/items/settings/SkillDisabled.png",
+          "name": "Skill Points - Off",
+          "codes": "SkillSanity,SkillDisabled",
+          "inherit_codes": false
       },
       {
-        "img": "images/items/planet/Koros.png",
-        "codes": "Koros"
+        "img": "images/items/settings/SkillSimple.png",
+        "name": "Skill Points - Simple Only",
+        "codes": "SkillSanity,SkillSimple"
+      },
+      {
+        "img": "images/items/settings/SkillMaster.png",
+        "name": "Skill Points - All",
+        "codes": "SkillSanity,SkillMaster"
       }
     ]
   },
   {
-    "name": "Command Center",
+    "name": "Trophy Shuffle",
     "type": "progressive",
+    "loop": false,
     "allow_disabled": false,
-    "loop": true,
-    "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/items/planet/CommandCenter.png",
-        "inherit_codes": false,
-        "img_mods": "@disabled",
-        "codes": ""
+          "img": "images/items/settings/TrophiesDisabled.png",
+          "name": "Trophies - Off",
+          "codes": "TrophySanity,TrophiesDisabled",
+          "inherit_codes": false
       },
       {
-        "img": "images/items/planet/CommandCenter.png",
-        "codes": "CommandCenter"
+        "img": "images/items/settings/TrophiesCollect.png",
+        "name": "Trophies - Collectables Only",
+        "codes": "TrophySanity,TrophiesCollect"
+      },
+      {
+        "img": "images/items/settings/TrophiesAll.png",
+        "name": "Trophies - All",
+        "codes": "TrophySanity,TrophiesAll"
       }
     ]
   }

@@ -27,6 +27,15 @@
                 "type": "layout",
                 "key": "planets_grid"
               }
+            },
+            {
+              "type": "settings",
+              "header": "Settings",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "settings_grid"
+              }
             }
           ]
         },
@@ -236,6 +245,15 @@
               "content": {
                 "type": "layout",
                 "key": "planets_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Settings",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "settings_grid"
               }
             }
           ]
